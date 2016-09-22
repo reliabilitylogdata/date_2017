@@ -1,0 +1,55 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:16:07:35
+#IT Ite:0 KerTime:1.751384 AccTime:1.751384
+#IT Ite:1 KerTime:1.790043 AccTime:3.541427
+#IT Ite:2 KerTime:2.001218 AccTime:5.542645
+#ERR The histogram from element 568150476 differs. srcHist=0 dstHist=64
+
+#SDC Ite:2 KerTime:2.001218 AccTime:5.542645 KerErr:1 AccErr:1
+#IT Ite:3 KerTime:1.773914 AccTime:7.316559
+#IT Ite:4 KerTime:1.724410 AccTime:9.040969
+#ERR The histogram from element 568150476 differs. srcHist=0 dstHist=64
+
+#SDC Ite:4 KerTime:1.724410 AccTime:9.040969 KerErr:1 AccErr:2
+#IT Ite:5 KerTime:1.909009 AccTime:10.949978
+#ERR The histogram from element 1486703052 differs. srcHist=1 dstHist=65
+
+#ERR The histogram from element -760264244 differs. srcHist=0 dstHist=64
+
+#SDC Ite:5 KerTime:1.909009 AccTime:10.949978 KerErr:2 AccErr:4
+#IT Ite:6 KerTime:1.874093 AccTime:12.824071
+#ERR The histogram from element 568150476 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1678816820 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 369183180 differs. srcHist=0 dstHist=64
+
+#SDC Ite:6 KerTime:1.874093 AccTime:12.824071 KerErr:3 AccErr:7
+#IT Ite:7 KerTime:1.671207 AccTime:14.495278
+#ERR The histogram from element 1486703052 differs. srcHist=1 dstHist=65
+
+#ERR The histogram from element -760264244 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 362575895 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1287735756 differs. srcHist=0 dstHist=64
+
+#SDC Ite:7 KerTime:1.671207 AccTime:14.495278 KerErr:4 AccErr:11
+#IT Ite:8 KerTime:2.197517 AccTime:16.692795
+#ERR The histogram from element 553470412 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1693496884 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 354503116 differs. srcHist=0 dstHist=64
+
+#SDC Ite:8 KerTime:2.197517 AccTime:16.692795 KerErr:3 AccErr:14
+#IT Ite:9 KerTime:1.936531 AccTime:18.629326
+#ERR The histogram from element 1503480268 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -743487028 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1304512972 differs. srcHist=0 dstHist=64
+
+#SDC Ite:9 KerTime:1.936531 AccTime:18.629326 KerErr:3 AccErr:17
+#ABORT amount of errors equals of the last iteration
+#END

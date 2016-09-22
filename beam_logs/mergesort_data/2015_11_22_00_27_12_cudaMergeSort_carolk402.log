@@ -1,0 +1,51 @@
+#HEADER size:67108864
+#BEGIN Y:2015 M:11 D:22 Time:00:27:12
+#IT Ite:0 KerTime:0.343689 AccTime:0.343689
+#IT Ite:1 KerTime:0.346387 AccTime:0.690076
+#IT Ite:2 KerTime:0.344693 AccTime:1.034769
+#IT Ite:3 KerTime:0.344621 AccTime:1.379390
+#IT Ite:4 KerTime:0.344749 AccTime:1.724139
+#IT Ite:5 KerTime:0.346320 AccTime:2.070459
+#IT Ite:6 KerTime:0.344815 AccTime:2.415274
+#IT Ite:7 KerTime:0.344727 AccTime:2.760001
+#IT Ite:8 KerTime:0.344738 AccTime:3.104739
+#IT Ite:9 KerTime:0.346560 AccTime:3.451299
+#IT Ite:10 KerTime:0.344831 AccTime:3.796130
+#IT Ite:11 KerTime:0.344698 AccTime:4.140828
+#IT Ite:12 KerTime:0.344924 AccTime:4.485752
+#IT Ite:13 KerTime:0.346482 AccTime:4.832234
+#IT Ite:14 KerTime:0.344916 AccTime:5.177150
+#IT Ite:15 KerTime:0.344887 AccTime:5.522037
+#IT Ite:16 KerTime:0.344810 AccTime:5.866847
+#IT Ite:17 KerTime:0.344820 AccTime:6.211667
+#IT Ite:18 KerTime:0.344677 AccTime:6.556344
+#IT Ite:19 KerTime:0.344678 AccTime:6.901022
+#IT Ite:20 KerTime:0.344780 AccTime:7.245802
+#IT Ite:21 KerTime:0.346507 AccTime:7.592309
+#IT Ite:22 KerTime:0.344712 AccTime:7.937021
+#ERR The histogram from element 674208158 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 674216350 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=21067575 674216332>674208158
+#ERR The link between Val and Key arrays in incorrect. index=21067576 wrong_key=674208158 val=66902717 correct_key_pointed_by_val=674216350
+#SDC Ite:22 KerTime:0.344712 AccTime:7.937021 KerErr:4 AccErr:4
+#IT Ite:23 KerTime:0.344727 AccTime:8.281748
+#IT Ite:24 KerTime:0.344662 AccTime:8.626410
+#ERR The histogram from element 674208158 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 674216350 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=21067575 674216332>674208158
+#ERR The link between Val and Key arrays in incorrect. index=21067576 wrong_key=674208158 val=66902717 correct_key_pointed_by_val=674216350
+#SDC Ite:24 KerTime:0.344662 AccTime:8.626410 KerErr:4 AccErr:8
+#IT Ite:25 KerTime:0.344666 AccTime:8.971076
+#ERR The histogram from element 674208158 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 674216350 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=21067575 674216332>674208158
+#ERR The link between Val and Key arrays in incorrect. index=21067576 wrong_key=674208158 val=66902717 correct_key_pointed_by_val=674216350
+#SDC Ite:25 KerTime:0.344666 AccTime:8.971076 KerErr:4 AccErr:12
+#ABORT amount of errors equals of the last iteration
+#END

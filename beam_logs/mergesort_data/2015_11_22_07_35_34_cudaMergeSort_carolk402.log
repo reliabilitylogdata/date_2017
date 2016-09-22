@@ -1,0 +1,29 @@
+#HEADER size:67108864
+#BEGIN Y:2015 M:11 D:22 Time:07:35:34
+#IT Ite:0 KerTime:0.343476 AccTime:0.343476
+#IT Ite:1 KerTime:0.344271 AccTime:0.687747
+#IT Ite:2 KerTime:0.344509 AccTime:1.032256
+#IT Ite:3 KerTime:0.346508 AccTime:1.378764
+#IT Ite:4 KerTime:0.344697 AccTime:1.723461
+#IT Ite:5 KerTime:0.344663 AccTime:2.068124
+#IT Ite:6 KerTime:0.344595 AccTime:2.412719
+#IT Ite:7 KerTime:0.346311 AccTime:2.759030
+#IT Ite:8 KerTime:0.344617 AccTime:3.103647
+#IT Ite:9 KerTime:0.344801 AccTime:3.448448
+#IT Ite:10 KerTime:0.344682 AccTime:3.793130
+#IT Ite:11 KerTime:0.346318 AccTime:4.139448
+#IT Ite:12 KerTime:0.344699 AccTime:4.484147
+#IT Ite:13 KerTime:0.344337 AccTime:4.828484
+#IT Ite:14 KerTime:0.344536 AccTime:5.173020
+#IT Ite:15 KerTime:0.346491 AccTime:5.519511
+#IT Ite:16 KerTime:0.344766 AccTime:5.864277
+#IT Ite:17 KerTime:0.344751 AccTime:6.209028
+#IT Ite:18 KerTime:0.344819 AccTime:6.553847
+#IT Ite:19 KerTime:0.346229 AccTime:6.900076
+#ERR The link between Val and Key arrays in incorrect. index=575288 wrong_key=18393741 val=4314185 correct_key_pointed_by_val=1603490132
+#SDC Ite:19 KerTime:0.346229 AccTime:6.900076 KerErr:1 AccErr:1
+#IT Ite:20 KerTime:0.344816 AccTime:7.244892
+#ERR The link between Val and Key arrays in incorrect. index=575288 wrong_key=18393741 val=4314185 correct_key_pointed_by_val=1603490132
+#SDC Ite:20 KerTime:0.344816 AccTime:7.244892 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END

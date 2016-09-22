@@ -1,0 +1,96 @@
+#HEADER size:33554432
+#BEGIN Y:2015 M:11 D:19 Time:11:11:26
+#IT Ite:0 KerTime:0.162770 AccTime:0.162770
+#IT Ite:1 KerTime:0.163255 AccTime:0.326025
+#IT Ite:2 KerTime:0.163190 AccTime:0.489215
+#IT Ite:3 KerTime:0.163238 AccTime:0.652453
+#IT Ite:4 KerTime:0.163216 AccTime:0.815669
+#IT Ite:5 KerTime:0.163336 AccTime:0.979005
+#IT Ite:6 KerTime:0.163349 AccTime:1.142354
+#IT Ite:7 KerTime:0.163291 AccTime:1.305645
+#IT Ite:8 KerTime:0.163229 AccTime:1.468874
+#IT Ite:9 KerTime:0.163275 AccTime:1.632149
+#ERR The histogram from element 2032875980 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -214091316 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 1833908684 differs. srcHist=64 dstHist=0
+
+#SDC Ite:9 KerTime:0.163275 AccTime:1.632149 KerErr:3 AccErr:3
+#IT Ite:10 KerTime:0.163245 AccTime:1.795394
+#IT Ite:11 KerTime:0.163283 AccTime:1.958677
+#IT Ite:12 KerTime:0.163244 AccTime:2.121921
+#IT Ite:13 KerTime:0.163298 AccTime:2.285219
+#IT Ite:14 KerTime:0.163161 AccTime:2.448380
+#IT Ite:15 KerTime:0.163228 AccTime:2.611608
+#IT Ite:16 KerTime:0.163186 AccTime:2.774794
+#IT Ite:17 KerTime:0.163190 AccTime:2.937984
+#IT Ite:18 KerTime:0.163301 AccTime:3.101285
+#IT Ite:19 KerTime:0.163430 AccTime:3.264715
+#IT Ite:20 KerTime:0.163324 AccTime:3.428039
+#IT Ite:21 KerTime:0.163331 AccTime:3.591370
+#IT Ite:22 KerTime:0.163148 AccTime:3.754518
+#IT Ite:23 KerTime:0.163227 AccTime:3.917745
+#IT Ite:24 KerTime:0.163321 AccTime:4.081066
+#IT Ite:25 KerTime:0.163247 AccTime:4.244313
+#IT Ite:26 KerTime:0.163325 AccTime:4.407638
+#IT Ite:27 KerTime:0.163336 AccTime:4.570974
+#IT Ite:28 KerTime:0.163241 AccTime:4.734215
+#IT Ite:29 KerTime:0.163339 AccTime:4.897554
+#IT Ite:30 KerTime:0.163219 AccTime:5.060773
+#IT Ite:31 KerTime:0.163336 AccTime:5.224109
+#ERR The histogram from element -232965684 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 1815034316 differs. srcHist=64 dstHist=0
+
+#SDC Ite:31 KerTime:0.163336 AccTime:5.224109 KerErr:2 AccErr:5
+#IT Ite:32 KerTime:0.163264 AccTime:5.387373
+#ERR The histogram from element -154191412 differs. srcHist=64 dstHist=0
+
+#SDC Ite:32 KerTime:0.163264 AccTime:5.387373 KerErr:1 AccErr:6
+#IT Ite:33 KerTime:0.163326 AccTime:5.550699
+#ERR The histogram from element 2018195916 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -228771380 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 1819228620 differs. srcHist=64 dstHist=0
+
+#SDC Ite:33 KerTime:0.163326 AccTime:5.550699 KerErr:3 AccErr:9
+#IT Ite:34 KerTime:0.163196 AccTime:5.713895
+#ERR The histogram from element 2090678732 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -156288564 differs. srcHist=64 dstHist=0
+
+#SDC Ite:34 KerTime:0.163196 AccTime:5.713895 KerErr:2 AccErr:11
+#IT Ite:35 KerTime:0.163332 AccTime:5.877227
+#ERR The histogram from element 2001418700 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -245548596 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 1802451404 differs. srcHist=64 dstHist=0
+
+#SDC Ite:35 KerTime:0.163332 AccTime:5.877227 KerErr:3 AccErr:14
+#IT Ite:36 KerTime:0.163231 AccTime:6.040458
+#ERR The histogram from element 2096970188 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -149997108 differs. srcHist=64 dstHist=0
+
+#SDC Ite:36 KerTime:0.163231 AccTime:6.040458 KerErr:2 AccErr:16
+#IT Ite:37 KerTime:0.163224 AccTime:6.203682
+#ERR The histogram from element 2005613004 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -241354292 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 1806645708 differs. srcHist=64 dstHist=0
+
+#SDC Ite:37 KerTime:0.163224 AccTime:6.203682 KerErr:3 AccErr:19
+#IT Ite:38 KerTime:0.163254 AccTime:6.366936
+#ERR The histogram from element 55261644 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element 2103261644 differs. srcHist=64 dstHist=0
+
+#ERR The histogram from element -143705652 differs. srcHist=64 dstHist=0
+
+#SDC Ite:38 KerTime:0.163254 AccTime:6.366936 KerErr:3 AccErr:22
+#ABORT amount of errors equals of the last iteration
+#END

@@ -1,0 +1,51 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:15:50:24
+#IT Ite:0 KerTime:1.649873 AccTime:1.649873
+#IT Ite:1 KerTime:1.757202 AccTime:3.407075
+#IT Ite:2 KerTime:1.874540 AccTime:5.281615
+#IT Ite:3 KerTime:1.936455 AccTime:7.218070
+#IT Ite:4 KerTime:1.675215 AccTime:8.893285
+#IT Ite:5 KerTime:1.785663 AccTime:10.678948
+#IT Ite:6 KerTime:2.344287 AccTime:13.023235
+#IT Ite:7 KerTime:2.106343 AccTime:15.129578
+#IT Ite:8 KerTime:1.912337 AccTime:17.041915
+#IT Ite:9 KerTime:1.824636 AccTime:18.866551
+#ERR The histogram from element -894666729 differs. srcHist=32 dstHist=0
+
+#SDC Ite:9 KerTime:1.824636 AccTime:18.866551 KerErr:1 AccErr:1
+#IT Ite:10 KerTime:1.689197 AccTime:20.555748
+#ERR The histogram from element 697989143 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1436502476 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -810464820 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1237535180 differs. srcHist=0 dstHist=64
+
+#SDC Ite:10 KerTime:1.689197 AccTime:20.555748 KerErr:4 AccErr:5
+#IT Ite:11 KerTime:1.699941 AccTime:22.255689
+#ERR The histogram from element 614418892 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1352300567 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -1632548404 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 415451596 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1153333271 differs. srcHist=32 dstHist=0
+
+#SDC Ite:11 KerTime:1.699941 AccTime:22.255689 KerErr:5 AccErr:10
+#IT Ite:12 KerTime:1.841411 AccTime:24.097100
+#ERR The histogram from element 1436502476 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1548978153 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -810464820 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 499021847 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1237535180 differs. srcHist=0 dstHist=64
+
+#SDC Ite:12 KerTime:1.841411 AccTime:24.097100 KerErr:5 AccErr:15
+#ABORT amount of errors equals of the last iteration
+#END

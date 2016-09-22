@@ -1,0 +1,69 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:16:05:15
+#IT Ite:0 KerTime:2.036684 AccTime:2.036684
+#IT Ite:1 KerTime:1.693868 AccTime:3.730552
+#IT Ite:2 KerTime:2.119542 AccTime:5.850094
+#IT Ite:3 KerTime:1.726853 AccTime:7.576947
+#IT Ite:4 KerTime:1.728536 AccTime:9.305483
+#IT Ite:5 KerTime:1.837786 AccTime:11.143269
+#IT Ite:6 KerTime:1.987805 AccTime:13.131074
+#IT Ite:7 KerTime:2.413653 AccTime:15.544727
+#ERR The histogram from element -1670875113 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 377124887 differs. srcHist=32 dstHist=0
+
+#SDC Ite:7 KerTime:2.413653 AccTime:15.544727 KerErr:2 AccErr:2
+#IT Ite:8 KerTime:1.964345 AccTime:17.509072
+#ERR The histogram from element 1473673239 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -773294057 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1274705943 differs. srcHist=32 dstHist=0
+
+#SDC Ite:8 KerTime:1.964345 AccTime:17.509072 KerErr:3 AccErr:5
+#IT Ite:9 KerTime:1.907606 AccTime:19.416678
+#ERR The histogram from element -1670875113 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 377124887 differs. srcHist=32 dstHist=0
+
+#SDC Ite:9 KerTime:1.907606 AccTime:19.416678 KerErr:2 AccErr:7
+#IT Ite:10 KerTime:1.782138 AccTime:21.198816
+#ERR The histogram from element 586893772 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1473673239 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -773294057 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1274705943 differs. srcHist=32 dstHist=0
+
+#SDC Ite:10 KerTime:1.782138 AccTime:21.198816 KerErr:4 AccErr:11
+#IT Ite:11 KerTime:1.675640 AccTime:22.874456
+#ERR The histogram from element 576092183 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -1670875113 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 377124887 differs. srcHist=32 dstHist=0
+
+#SDC Ite:11 KerTime:1.675640 AccTime:22.874456 KerErr:3 AccErr:14
+#IT Ite:12 KerTime:1.852960 AccTime:24.727416
+#ERR The histogram from element 586893772 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1473673239 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -773294057 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1274705943 differs. srcHist=32 dstHist=0
+
+#SDC Ite:12 KerTime:1.852960 AccTime:24.727416 KerErr:4 AccErr:18
+#IT Ite:13 KerTime:1.762832 AccTime:26.490248
+#ERR The histogram from element 576092183 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element 1471891916 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1670875113 differs. srcHist=32 dstHist=0
+
+#ERR The histogram from element -775075380 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 377124887 differs. srcHist=32 dstHist=0
+
+#SDC Ite:13 KerTime:1.762832 AccTime:26.490248 KerErr:5 AccErr:23

@@ -1,0 +1,50 @@
+#HEADER size:33554432
+#BEGIN Y:2015 M:11 D:19 Time:10:31:31
+#IT Ite:0 KerTime:0.162711 AccTime:0.162711
+#IT Ite:1 KerTime:0.163184 AccTime:0.325895
+#IT Ite:2 KerTime:0.163206 AccTime:0.489101
+#IT Ite:3 KerTime:0.163313 AccTime:0.652414
+#IT Ite:4 KerTime:0.163264 AccTime:0.815678
+#IT Ite:5 KerTime:0.163226 AccTime:0.978904
+#IT Ite:6 KerTime:0.163275 AccTime:1.142179
+#IT Ite:7 KerTime:0.163245 AccTime:1.305424
+#IT Ite:8 KerTime:0.163351 AccTime:1.468775
+#IT Ite:9 KerTime:0.163248 AccTime:1.632023
+#IT Ite:10 KerTime:0.163336 AccTime:1.795359
+#IT Ite:11 KerTime:0.163445 AccTime:1.958804
+#IT Ite:12 KerTime:0.163301 AccTime:2.122105
+#IT Ite:13 KerTime:0.163159 AccTime:2.285264
+#IT Ite:14 KerTime:0.163297 AccTime:2.448561
+#IT Ite:15 KerTime:0.163110 AccTime:2.611671
+#IT Ite:16 KerTime:0.163295 AccTime:2.774966
+#IT Ite:17 KerTime:0.163296 AccTime:2.938262
+#IT Ite:18 KerTime:0.163341 AccTime:3.101603
+#IT Ite:19 KerTime:0.163303 AccTime:3.264906
+#IT Ite:20 KerTime:0.163265 AccTime:3.428171
+#ERR The histogram from element 2040351180 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -206616116 differs. srcHist=0 dstHist=64
+
+#SDC Ite:20 KerTime:0.163265 AccTime:3.428171 KerErr:2 AccErr:2
+#IT Ite:21 KerTime:0.163303 AccTime:3.591474
+#ERR The histogram from element 29182412 differs. srcHist=0 dstHist=64
+
+#SDC Ite:21 KerTime:0.163303 AccTime:3.591474 KerErr:1 AccErr:3
+#IT Ite:22 KerTime:0.163246 AccTime:3.754720
+#ERR The histogram from element 2034059724 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -212907572 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 1835092428 differs. srcHist=0 dstHist=64
+
+#SDC Ite:22 KerTime:0.163246 AccTime:3.754720 KerErr:3 AccErr:6
+#IT Ite:23 KerTime:0.163221 AccTime:3.917941
+#ERR The histogram from element 12405196 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 2060405196 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -186562100 differs. srcHist=0 dstHist=64
+
+#SDC Ite:23 KerTime:0.163221 AccTime:3.917941 KerErr:3 AccErr:9
+#ABORT amount of errors equals of the last iteration
+#END

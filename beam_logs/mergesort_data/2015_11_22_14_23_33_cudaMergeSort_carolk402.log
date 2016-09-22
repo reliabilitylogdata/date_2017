@@ -1,0 +1,15 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:14:23:33
+#IT Ite:0 KerTime:0.722699 AccTime:0.722699
+#IT Ite:1 KerTime:0.724430 AccTime:1.447129
+#IT Ite:2 KerTime:0.724795 AccTime:2.171924
+#IT Ite:3 KerTime:0.724661 AccTime:2.896585
+#ERR Elements not ordered. index=101416452 1622638465>1085767574
+#ERR The link between Val and Key arrays in incorrect. index=101416453 wrong_key=1085767574 val=90090956 correct_key_pointed_by_val=1622638486
+#SDC Ite:3 KerTime:0.724661 AccTime:2.896585 KerErr:2 AccErr:2
+#IT Ite:4 KerTime:0.724680 AccTime:3.621265
+#ERR Elements not ordered. index=101416452 1622638465>1085767574
+#ERR The link between Val and Key arrays in incorrect. index=101416453 wrong_key=1085767574 val=90090956 correct_key_pointed_by_val=1622638486
+#SDC Ite:4 KerTime:0.724680 AccTime:3.621265 KerErr:2 AccErr:4
+#ABORT amount of errors equals of the last iteration
+#END

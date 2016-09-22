@@ -1,0 +1,45 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:14:53:49
+#IT Ite:0 KerTime:0.722875 AccTime:0.722875
+#IT Ite:1 KerTime:0.724581 AccTime:1.447456
+#IT Ite:2 KerTime:0.724964 AccTime:2.172420
+#IT Ite:3 KerTime:0.725168 AccTime:2.897588
+#IT Ite:4 KerTime:0.724923 AccTime:3.622511
+#IT Ite:5 KerTime:0.724788 AccTime:4.347299
+#IT Ite:6 KerTime:0.725214 AccTime:5.072513
+#IT Ite:7 KerTime:0.724738 AccTime:5.797251
+#IT Ite:8 KerTime:0.724774 AccTime:6.522025
+#IT Ite:9 KerTime:0.725022 AccTime:7.247047
+#IT Ite:10 KerTime:0.724732 AccTime:7.971779
+#IT Ite:11 KerTime:0.724415 AccTime:8.696194
+#IT Ite:12 KerTime:0.724925 AccTime:9.421119
+#IT Ite:13 KerTime:0.724959 AccTime:10.146078
+#IT Ite:14 KerTime:0.725051 AccTime:10.871129
+#IT Ite:15 KerTime:0.724665 AccTime:11.595794
+#IT Ite:16 KerTime:0.724756 AccTime:12.320550
+#IT Ite:17 KerTime:0.724969 AccTime:13.045519
+#IT Ite:18 KerTime:0.725202 AccTime:13.770721
+#IT Ite:19 KerTime:0.725158 AccTime:14.495879
+#IT Ite:20 KerTime:0.724670 AccTime:15.220549
+#ERR Elements not ordered. index=52145668 834306213>297435345
+#ERR The link between Val and Key arrays in incorrect. index=52145669 wrong_key=297435345 val=75630690 correct_key_pointed_by_val=834306257
+#SDC Ite:20 KerTime:0.724670 AccTime:15.220549 KerErr:2 AccErr:2
+#IT Ite:21 KerTime:0.724995 AccTime:15.945544
+#IT Ite:22 KerTime:0.725342 AccTime:16.670886
+#ERR The histogram from element 297435345 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 834306257 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=52145668 834306213>297435345
+#ERR The link between Val and Key arrays in incorrect. index=52145669 wrong_key=297435345 val=75630690 correct_key_pointed_by_val=834306257
+#SDC Ite:22 KerTime:0.725342 AccTime:16.670886 KerErr:4 AccErr:6
+#IT Ite:23 KerTime:0.724898 AccTime:17.395784
+#ERR The histogram from element 297435345 differs. srcHist=0 dstHist=1
+
+#ERR The histogram from element 834306257 differs. srcHist=1 dstHist=0
+
+#ERR Elements not ordered. index=52145668 834306213>297435345
+#ERR The link between Val and Key arrays in incorrect. index=52145669 wrong_key=297435345 val=75630690 correct_key_pointed_by_val=834306257
+#SDC Ite:23 KerTime:0.724898 AccTime:17.395784 KerErr:4 AccErr:10
+#ABORT amount of errors equals of the last iteration
+#END

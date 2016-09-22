@@ -1,0 +1,42 @@
+#HEADER size:134217728
+#BEGIN Y:2015 M:11 D:22 Time:14:36:19
+#IT Ite:0 KerTime:0.722674 AccTime:0.722674
+#IT Ite:1 KerTime:0.724409 AccTime:1.447083
+#IT Ite:2 KerTime:0.724771 AccTime:2.171854
+#IT Ite:3 KerTime:0.724645 AccTime:2.896499
+#IT Ite:4 KerTime:0.725034 AccTime:3.621533
+#IT Ite:5 KerTime:0.724425 AccTime:4.345958
+#IT Ite:6 KerTime:0.724565 AccTime:5.070523
+#IT Ite:7 KerTime:0.725186 AccTime:5.795709
+#IT Ite:8 KerTime:0.724800 AccTime:6.520509
+#IT Ite:9 KerTime:0.724900 AccTime:7.245409
+#IT Ite:10 KerTime:0.724785 AccTime:7.970194
+#IT Ite:11 KerTime:0.725102 AccTime:8.695296
+#IT Ite:12 KerTime:0.724678 AccTime:9.419974
+#IT Ite:13 KerTime:0.724783 AccTime:10.144757
+#IT Ite:14 KerTime:0.724910 AccTime:10.869667
+#IT Ite:15 KerTime:0.724845 AccTime:11.594512
+#IT Ite:16 KerTime:0.724834 AccTime:12.319346
+#IT Ite:17 KerTime:0.724774 AccTime:13.044120
+#IT Ite:18 KerTime:0.724838 AccTime:13.768958
+#ERR Elements not ordered. index=85285381 1901337590>1364466690
+#ERR The link between Val and Key arrays in incorrect. index=85285381 wrong_key=1901337590 val=79410793 correct_key_pointed_by_val=1364466678
+#SDC Ite:18 KerTime:0.724838 AccTime:13.768958 KerErr:2 AccErr:2
+#IT Ite:19 KerTime:0.724792 AccTime:14.493750
+#ERR The histogram from element 1364466678 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1901337590 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=85285381 1901337590>1364466690
+#ERR The link between Val and Key arrays in incorrect. index=85285381 wrong_key=1901337590 val=79410793 correct_key_pointed_by_val=1364466678
+#SDC Ite:19 KerTime:0.724792 AccTime:14.493750 KerErr:4 AccErr:6
+#IT Ite:20 KerTime:0.724954 AccTime:15.218704
+#ERR The histogram from element 1364466678 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 1901337590 differs. srcHist=0 dstHist=1
+
+#ERR Elements not ordered. index=85285381 1901337590>1364466690
+#ERR The link between Val and Key arrays in incorrect. index=85285381 wrong_key=1901337590 val=79410793 correct_key_pointed_by_val=1364466678
+#SDC Ite:20 KerTime:0.724954 AccTime:15.218704 KerErr:4 AccErr:10
+#ABORT amount of errors equals of the last iteration
+#END

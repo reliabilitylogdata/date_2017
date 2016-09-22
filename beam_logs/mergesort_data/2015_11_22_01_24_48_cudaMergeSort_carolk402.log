@@ -1,0 +1,110 @@
+#HEADER size:67108864
+#BEGIN Y:2015 M:11 D:22 Time:01:24:48
+#IT Ite:0 KerTime:0.343613 AccTime:0.343613
+#IT Ite:1 KerTime:0.344487 AccTime:0.688100
+#IT Ite:2 KerTime:0.344476 AccTime:1.032576
+#IT Ite:3 KerTime:0.346407 AccTime:1.378983
+#IT Ite:4 KerTime:0.344469 AccTime:1.723452
+#IT Ite:5 KerTime:0.344516 AccTime:2.067968
+#IT Ite:6 KerTime:0.344737 AccTime:2.412705
+#IT Ite:7 KerTime:0.346578 AccTime:2.759283
+#IT Ite:8 KerTime:0.344701 AccTime:3.103984
+#IT Ite:9 KerTime:0.344716 AccTime:3.448700
+#IT Ite:10 KerTime:0.344658 AccTime:3.793358
+#IT Ite:11 KerTime:0.346710 AccTime:4.140068
+#IT Ite:12 KerTime:0.344667 AccTime:4.484735
+#IT Ite:13 KerTime:0.344674 AccTime:4.829409
+#IT Ite:14 KerTime:0.344566 AccTime:5.173975
+#IT Ite:15 KerTime:0.346338 AccTime:5.520313
+#IT Ite:16 KerTime:0.344733 AccTime:5.865046
+#IT Ite:17 KerTime:0.344701 AccTime:6.209747
+#IT Ite:18 KerTime:0.344776 AccTime:6.554523
+#ERR The histogram from element 907889100 differs. srcHist=0 dstHist=64
+
+#SDC Ite:18 KerTime:0.344776 AccTime:6.554523 KerErr:1 AccErr:1
+#IT Ite:19 KerTime:0.346502 AccTime:6.901025
+#IT Ite:20 KerTime:0.344646 AccTime:7.245671
+#IT Ite:21 KerTime:0.344482 AccTime:7.590153
+#IT Ite:22 KerTime:0.344687 AccTime:7.934840
+#ERR The histogram from element 907889100 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1339078196 differs. srcHist=0 dstHist=64
+
+#SDC Ite:22 KerTime:0.344687 AccTime:7.934840 KerErr:2 AccErr:3
+#IT Ite:23 KerTime:0.344640 AccTime:8.279480
+#ERR The histogram from element 1151158732 differs. srcHist=0 dstHist=64
+
+#SDC Ite:23 KerTime:0.344640 AccTime:8.279480 KerErr:1 AccErr:4
+#IT Ite:24 KerTime:0.346348 AccTime:8.625828
+#ERR The histogram from element 907889100 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element -1339078196 differs. srcHist=0 dstHist=64
+
+#SDC Ite:24 KerTime:0.346348 AccTime:8.625828 KerErr:2 AccErr:6
+#IT Ite:25 KerTime:0.344817 AccTime:8.970645
+#ERR The histogram from element 1151158732 differs. srcHist=0 dstHist=64
+
+#SDC Ite:25 KerTime:0.344817 AccTime:8.970645 KerErr:1 AccErr:7
+#IT Ite:26 KerTime:0.344731 AccTime:9.315376
+#IT Ite:27 KerTime:0.344774 AccTime:9.660150
+#IT Ite:28 KerTime:0.344900 AccTime:10.005050
+#IT Ite:29 KerTime:0.346934 AccTime:10.351984
+#IT Ite:30 KerTime:0.344424 AccTime:10.696408
+#IT Ite:31 KerTime:0.344529 AccTime:11.040937
+#IT Ite:32 KerTime:0.344650 AccTime:11.385587
+#IT Ite:33 KerTime:0.346538 AccTime:11.732125
+#IT Ite:34 KerTime:0.344650 AccTime:12.076775
+#IT Ite:35 KerTime:0.344761 AccTime:12.421536
+#IT Ite:36 KerTime:0.344721 AccTime:12.766257
+#IT Ite:37 KerTime:0.346526 AccTime:13.112783
+#IT Ite:38 KerTime:0.344646 AccTime:13.457429
+#IT Ite:39 KerTime:0.344894 AccTime:13.802323
+#IT Ite:40 KerTime:0.344658 AccTime:14.146981
+#IT Ite:41 KerTime:0.344747 AccTime:14.491728
+#IT Ite:42 KerTime:0.344506 AccTime:14.836234
+#IT Ite:43 KerTime:0.344866 AccTime:15.181100
+#IT Ite:44 KerTime:0.344530 AccTime:15.525630
+#IT Ite:45 KerTime:0.344682 AccTime:15.870312
+#IT Ite:46 KerTime:0.346223 AccTime:16.216535
+#IT Ite:47 KerTime:0.344698 AccTime:16.561233
+#IT Ite:48 KerTime:0.344552 AccTime:16.905785
+#IT Ite:49 KerTime:0.344576 AccTime:17.250361
+#IT Ite:50 KerTime:0.346571 AccTime:17.596932
+#IT Ite:51 KerTime:0.344664 AccTime:17.941596
+#IT Ite:52 KerTime:0.344471 AccTime:18.286067
+#IT Ite:53 KerTime:0.344699 AccTime:18.630766
+#IT Ite:54 KerTime:0.346650 AccTime:18.977416
+#IT Ite:55 KerTime:0.344691 AccTime:19.322107
+#IT Ite:56 KerTime:0.344710 AccTime:19.666817
+#IT Ite:57 KerTime:0.344747 AccTime:20.011564
+#IT Ite:58 KerTime:0.344617 AccTime:20.356181
+#IT Ite:59 KerTime:0.344667 AccTime:20.700848
+#IT Ite:60 KerTime:0.344748 AccTime:21.045596
+#IT Ite:61 KerTime:0.344794 AccTime:21.390390
+#IT Ite:62 KerTime:0.346467 AccTime:21.736857
+#IT Ite:63 KerTime:0.344676 AccTime:22.081533
+#IT Ite:64 KerTime:0.344589 AccTime:22.426122
+#ERR The histogram from element 901597644 differs. srcHist=0 dstHist=64
+
+#SDC Ite:64 KerTime:0.344589 AccTime:22.426122 KerErr:1 AccErr:8
+#IT Ite:65 KerTime:0.344708 AccTime:22.770830
+#IT Ite:66 KerTime:0.344761 AccTime:23.115591
+#IT Ite:67 KerTime:0.346566 AccTime:23.462157
+#IT Ite:68 KerTime:0.344867 AccTime:23.807024
+#ERR The histogram from element 903694796 differs. srcHist=0 dstHist=64
+
+#SDC Ite:68 KerTime:0.344867 AccTime:23.807024 KerErr:1 AccErr:9
+#IT Ite:69 KerTime:0.344856 AccTime:24.151880
+#IT Ite:70 KerTime:0.344779 AccTime:24.496659
+#IT Ite:71 KerTime:0.344840 AccTime:24.841499
+#IT Ite:72 KerTime:0.346374 AccTime:25.187873
+#IT Ite:73 KerTime:0.344597 AccTime:25.532470
+#ERR The histogram from element 1151158732 differs. srcHist=0 dstHist=64
+
+#SDC Ite:73 KerTime:0.344597 AccTime:25.532470 KerErr:1 AccErr:10
+#IT Ite:74 KerTime:0.344798 AccTime:25.877268
+#ERR The histogram from element 702630348 differs. srcHist=0 dstHist=64
+
+#SDC Ite:74 KerTime:0.344798 AccTime:25.877268 KerErr:1 AccErr:11
+#ABORT amount of errors equals of the last iteration
+#END

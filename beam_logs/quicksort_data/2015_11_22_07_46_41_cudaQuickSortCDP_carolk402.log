@@ -1,0 +1,146 @@
+#HEADER size:67108864
+#BEGIN Y:2015 M:11 D:22 Time:07:46:41
+#IT Ite:0 KerTime:0.845685 AccTime:0.845685
+#IT Ite:1 KerTime:0.933290 AccTime:1.778975
+#IT Ite:2 KerTime:0.824461 AccTime:2.603436
+#IT Ite:3 KerTime:1.714885 AccTime:4.318321
+#IT Ite:4 KerTime:0.801551 AccTime:5.119872
+#IT Ite:5 KerTime:0.791595 AccTime:5.911467
+#IT Ite:6 KerTime:1.145759 AccTime:7.057226
+#IT Ite:7 KerTime:0.979741 AccTime:8.036967
+#IT Ite:8 KerTime:1.124997 AccTime:9.161964
+#IT Ite:9 KerTime:0.848593 AccTime:10.010557
+#IT Ite:10 KerTime:0.993643 AccTime:11.004200
+#IT Ite:11 KerTime:0.821341 AccTime:11.825541
+#IT Ite:12 KerTime:0.871870 AccTime:12.697411
+#IT Ite:13 KerTime:0.867509 AccTime:13.564920
+#ERR The histogram from element 341931449 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 348437339 differs. srcHist=1 dstHist=0
+
+#ERR The histogram from element 402269702 differs. srcHist=1 dstHist=2
+
+#ERR The histogram from element 410240872 differs. srcHist=1 dstHist=0
+
+#SDC Ite:13 KerTime:0.867509 AccTime:13.564920 KerErr:4 AccErr:4
+#IT Ite:14 KerTime:0.854681 AccTime:14.419601
+#IT Ite:15 KerTime:1.159734 AccTime:15.579335
+#IT Ite:16 KerTime:1.635848 AccTime:17.215183
+#IT Ite:17 KerTime:1.027252 AccTime:18.242435
+#IT Ite:18 KerTime:0.780302 AccTime:19.022737
+#IT Ite:19 KerTime:0.765919 AccTime:19.788656
+#IT Ite:20 KerTime:0.999677 AccTime:20.788333
+#IT Ite:21 KerTime:0.770785 AccTime:21.559118
+#IT Ite:22 KerTime:0.866268 AccTime:22.425386
+#IT Ite:23 KerTime:1.033388 AccTime:23.458774
+#IT Ite:24 KerTime:1.510262 AccTime:24.969036
+#IT Ite:25 KerTime:1.000576 AccTime:25.969612
+#IT Ite:26 KerTime:0.806296 AccTime:26.775908
+#IT Ite:27 KerTime:0.863511 AccTime:27.639419
+#IT Ite:28 KerTime:0.925561 AccTime:28.564980
+#IT Ite:29 KerTime:0.795880 AccTime:29.360860
+#IT Ite:30 KerTime:0.840557 AccTime:30.201417
+#IT Ite:31 KerTime:1.652930 AccTime:31.854347
+#IT Ite:32 KerTime:0.953626 AccTime:32.807973
+#IT Ite:33 KerTime:0.805567 AccTime:33.613540
+#IT Ite:34 KerTime:0.831646 AccTime:34.445186
+#IT Ite:35 KerTime:0.836524 AccTime:35.281710
+#IT Ite:36 KerTime:0.846869 AccTime:36.128579
+#IT Ite:37 KerTime:0.792173 AccTime:36.920752
+#IT Ite:38 KerTime:0.883802 AccTime:37.804554
+#IT Ite:39 KerTime:0.867848 AccTime:38.672402
+#IT Ite:40 KerTime:0.906527 AccTime:39.578929
+#IT Ite:41 KerTime:0.943773 AccTime:40.522702
+#IT Ite:42 KerTime:0.783691 AccTime:41.306393
+#IT Ite:43 KerTime:0.974745 AccTime:42.281138
+#IT Ite:44 KerTime:0.956456 AccTime:43.237594
+#IT Ite:45 KerTime:0.836343 AccTime:44.073937
+#IT Ite:46 KerTime:0.922525 AccTime:44.996462
+#IT Ite:47 KerTime:1.172783 AccTime:46.169245
+#IT Ite:48 KerTime:0.915601 AccTime:47.084846
+#IT Ite:49 KerTime:0.796583 AccTime:47.881429
+#IT Ite:50 KerTime:0.811153 AccTime:48.692582
+#IT Ite:51 KerTime:0.855171 AccTime:49.547753
+#IT Ite:52 KerTime:0.830250 AccTime:50.378003
+#IT Ite:53 KerTime:0.880175 AccTime:51.258178
+#IT Ite:54 KerTime:0.910028 AccTime:52.168206
+#IT Ite:55 KerTime:0.791528 AccTime:52.959734
+#IT Ite:56 KerTime:0.945323 AccTime:53.905057
+#IT Ite:57 KerTime:0.862700 AccTime:54.767757
+#IT Ite:58 KerTime:1.702527 AccTime:56.470284
+#IT Ite:59 KerTime:0.869565 AccTime:57.339849
+#IT Ite:60 KerTime:1.875928 AccTime:59.215777
+#IT Ite:61 KerTime:0.895071 AccTime:60.110848
+#IT Ite:62 KerTime:0.825425 AccTime:60.936273
+#IT Ite:63 KerTime:1.133762 AccTime:62.070035
+#IT Ite:64 KerTime:0.840410 AccTime:62.910445
+#IT Ite:65 KerTime:0.923948 AccTime:63.834393
+#IT Ite:66 KerTime:0.999640 AccTime:64.834033
+#ERR The histogram from element 2010470860 differs. srcHist=0 dstHist=64
+
+#SDC Ite:66 KerTime:0.999640 AccTime:64.834033 KerErr:1 AccErr:5
+#IT Ite:67 KerTime:1.662064 AccTime:66.496097
+#ERR The histogram from element 58022348 differs. srcHist=0 dstHist=64
+
+#ERR The histogram from element 2106022348 differs. srcHist=0 dstHist=64
+
+#SDC Ite:67 KerTime:1.662064 AccTime:66.496097 KerErr:2 AccErr:7
+#IT Ite:68 KerTime:0.839083 AccTime:67.335180
+#IT Ite:69 KerTime:0.980838 AccTime:68.316018
+#IT Ite:70 KerTime:1.693956 AccTime:70.009974
+#IT Ite:71 KerTime:0.793215 AccTime:70.803189
+#IT Ite:72 KerTime:0.827297 AccTime:71.630486
+#IT Ite:73 KerTime:0.815442 AccTime:72.445928
+#IT Ite:74 KerTime:1.185033 AccTime:73.630961
+#IT Ite:75 KerTime:1.020555 AccTime:74.651516
+#IT Ite:76 KerTime:0.909825 AccTime:75.561341
+#IT Ite:77 KerTime:1.037770 AccTime:76.599111
+#IT Ite:78 KerTime:0.869826 AccTime:77.468937
+#IT Ite:79 KerTime:0.815646 AccTime:78.284583
+#IT Ite:80 KerTime:0.950878 AccTime:79.235461
+#IT Ite:81 KerTime:0.836698 AccTime:80.072159
+#IT Ite:82 KerTime:0.842278 AccTime:80.914437
+#IT Ite:83 KerTime:0.787195 AccTime:81.701632
+#IT Ite:84 KerTime:0.885123 AccTime:82.586755
+#IT Ite:85 KerTime:0.862694 AccTime:83.449449
+#IT Ite:86 KerTime:0.823064 AccTime:84.272513
+#IT Ite:87 KerTime:0.935795 AccTime:85.208308
+#IT Ite:88 KerTime:0.794022 AccTime:86.002330
+#IT Ite:89 KerTime:0.794428 AccTime:86.796758
+#IT Ite:90 KerTime:0.795174 AccTime:87.591932
+#IT Ite:91 KerTime:0.878731 AccTime:88.470663
+#IT Ite:92 KerTime:0.924466 AccTime:89.395129
+#IT Ite:93 KerTime:1.015567 AccTime:90.410696
+#IT Ite:94 KerTime:1.045033 AccTime:91.455729
+#IT Ite:95 KerTime:0.828032 AccTime:92.283761
+#IT Ite:96 KerTime:0.796765 AccTime:93.080526
+#IT Ite:97 KerTime:0.808009 AccTime:93.888535
+#IT Ite:98 KerTime:0.866261 AccTime:94.754796
+#IT Ite:99 KerTime:0.818487 AccTime:95.573283
+#IT Ite:100 KerTime:0.808443 AccTime:96.381726
+#IT Ite:101 KerTime:0.897367 AccTime:97.279093
+#IT Ite:102 KerTime:0.862102 AccTime:98.141195
+#IT Ite:103 KerTime:0.768281 AccTime:98.909476
+#IT Ite:104 KerTime:1.220679 AccTime:100.130155
+#IT Ite:105 KerTime:0.805876 AccTime:100.936031
+#IT Ite:106 KerTime:0.966530 AccTime:101.902561
+#IT Ite:107 KerTime:0.817134 AccTime:102.719695
+#IT Ite:108 KerTime:0.828068 AccTime:103.547763
+#IT Ite:109 KerTime:0.883904 AccTime:104.431667
+#IT Ite:110 KerTime:0.820283 AccTime:105.251950
+#IT Ite:111 KerTime:0.888144 AccTime:106.140094
+#IT Ite:112 KerTime:0.767857 AccTime:106.907951
+#IT Ite:113 KerTime:1.736118 AccTime:108.644069
+#IT Ite:114 KerTime:0.839614 AccTime:109.483683
+#IT Ite:115 KerTime:0.920004 AccTime:110.403687
+#IT Ite:116 KerTime:1.128961 AccTime:111.532648
+#IT Ite:117 KerTime:0.971655 AccTime:112.504303
+#IT Ite:118 KerTime:0.832236 AccTime:113.336539
+#IT Ite:119 KerTime:0.877387 AccTime:114.213926
+#IT Ite:120 KerTime:0.803351 AccTime:115.017277
+#IT Ite:121 KerTime:0.804046 AccTime:115.821323
+#IT Ite:122 KerTime:0.767984 AccTime:116.589307
+#IT Ite:123 KerTime:0.929107 AccTime:117.518414
+#IT Ite:124 KerTime:1.670901 AccTime:119.189315
+#IT Ite:125 KerTime:0.875091 AccTime:120.064406
+#IT Ite:126 KerTime:0.940133 AccTime:121.004539

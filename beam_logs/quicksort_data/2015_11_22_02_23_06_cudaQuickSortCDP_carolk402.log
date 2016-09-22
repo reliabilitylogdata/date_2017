@@ -1,0 +1,19 @@
+#HEADER size:67108864
+#BEGIN Y:2015 M:11 D:22 Time:02:23:06
+#IT Ite:0 KerTime:0.841715 AccTime:0.841715
+#IT Ite:1 KerTime:1.152981 AccTime:1.994696
+#IT Ite:2 KerTime:0.870227 AccTime:2.864923
+#IT Ite:3 KerTime:1.217769 AccTime:4.082692
+#IT Ite:4 KerTime:0.807098 AccTime:4.889790
+#IT Ite:5 KerTime:0.841464 AccTime:5.731254
+#IT Ite:6 KerTime:0.845643 AccTime:6.576897
+#IT Ite:7 KerTime:0.817548 AccTime:7.394445
+#ERR The histogram from element -1223398175 differs. srcHist=32 dstHist=0
+
+#SDC Ite:7 KerTime:0.817548 AccTime:7.394445 KerErr:1 AccErr:1
+#IT Ite:8 KerTime:0.957120 AccTime:8.351565
+#ERR The histogram from element -1217106719 differs. srcHist=32 dstHist=0
+
+#SDC Ite:8 KerTime:0.957120 AccTime:8.351565 KerErr:1 AccErr:2
+#ABORT amount of errors equals of the last iteration
+#END
